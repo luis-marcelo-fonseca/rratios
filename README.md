@@ -1,0 +1,3 @@
+Rratios é uma aplicação desenvolvida em HTML e Javascript, projetada para ser compatível com qualquer dispositivo que possua um navegador web. O objetivo primordial dessa aplicação é facilitar o processo de ajuste da proporcão de ingredientes em uma receita, permitindo a sua adaptação para diferentes quantidades.
+
+Rratios is an application developed in HTML and Javascript, designed to be compatible with any device that has a web browser. The primary objective of this application is to facilitate the process of adjusting the proportion of ingredients in a recipe, allowing it to be adapted to different quantities.
